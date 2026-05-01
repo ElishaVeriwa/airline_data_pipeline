@@ -1,0 +1,21 @@
+airline-data-pipeline/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   └── analysis.ipynb
+│
+├── src/
+│   ├── ocr_extraction.py
+│   ├── data_cleaning.py
+│   └── pipeline.py
+│
+├── outputs/
+│   ├── charts/
+│   └── reports/
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
